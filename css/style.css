@@ -143,3 +143,9 @@ body {
     transform: translateX(0);
 }
 /* End Portfolio */
+
+/* Start About */
+.stuff .description {
+    max-width: 500px;
+}
+/* End About */
