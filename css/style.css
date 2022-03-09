@@ -192,3 +192,38 @@ body {
     color: var(--yellow-color);
 } 
 /* End Subscribe */
+
+/* Start Footer */
+.footer {
+    background-color: var(--dark-color);
+}
+
+.footer .copyright > span {
+    color: var(--green-color);
+}
+
+.footer .copyright div span {
+    color: var(--yellow-color);
+}
+
+.footer .contact ul svg {
+    width: 20px;
+    height: 20px;
+}
+
+.footer .facebook {
+    color: #1877f2;
+}
+
+.footer .twitter {
+    color: #1da1f2;
+}
+
+.footer .linkedin {
+    color: #0077b5;
+}
+
+.footer .youtube {
+    color: #ff0000;
+}
+/* End Footer */
