@@ -163,3 +163,9 @@ body {
     background-color: var(--green-color);
 }
 /* End Team */
+
+/* Strat Project */
+.project {
+    background-color: var(--dark-color);
+}
+/* End Project */
